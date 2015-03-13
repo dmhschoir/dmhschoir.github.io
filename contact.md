@@ -4,5 +4,5 @@ title: Contact Us
 permalink: /contact/
 ---
 
-Jennifer Moore, Choir Director: jennifer.moore@susd.org 
+Jennifer Moore, Choir Director: <mailto:jennifer.moore@susd.org> 
 
