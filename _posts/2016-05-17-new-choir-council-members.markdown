@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "New Choir Council Members"
+image: "../../../../../img/pika.jpg"
 date:   2016-05-17 18:33:45
 categories: dm choir
 ---
@@ -8,8 +9,10 @@ Please welcome our new Choir Council members! We are sad to see our previous off
 
 ## 2016 - 2017 officers
 - President: Marni Balamut
-- Vice President: Jane Doe
-- Secretary: John Doe
+- Vice President: Zach Yang
+- Secretary: Sarah Dorsch
+- Treasurer: Sara Simkins
+- Publicist: Parker Jackson
 - Historian: Lindy Goldstein
 
-### Have a great summer!
+#### Have a great summer!
