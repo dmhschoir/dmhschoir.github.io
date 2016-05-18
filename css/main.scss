@@ -3,7 +3,12 @@
 ---
 @charset "utf-8";
 
-
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base",
+        "layout",
+        "syntax-highlighting"
+;
 
 // Our variables
 $base-font-family : Helvetica, Arial, sans-serif;
@@ -51,12 +56,3 @@ $on-laptop:        800px;
         @content;
     }
 }
-
-
-
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
